@@ -1,0 +1,9 @@
+{
+  "name": "Switch",
+  "short_name": "Switch",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#E85D2C",
+  "description": "Crowdsourced course notes for KIU students."
+}
